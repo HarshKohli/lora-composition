@@ -1,0 +1,44 @@
+{
+    "flan_t5_large-adversarial_qa_dbert_based_on": {
+        "adversarial_qa_dbert_based_on.json": {
+            "em": 78.76049063912201,
+            "f1": 87.27199753161875
+        },
+        "amazon_polarity_Is_this_product_review_positive.json": {
+            "em": 32.31454950652658,
+            "f1": 32.31454950652658
+        },
+        "dbpedia_14_given_list_what_category_does_the_paragraph_belong_to.json": {
+            "em": 99.15474642392718,
+            "f1": 99.15474642392718
+        }
+    },
+    "flan_t5_large-amazon_polarity_Is_this_product_review_positive": {
+        "adversarial_qa_dbert_based_on.json": {
+            "em": 74.62879276952873,
+            "f1": 84.3259473090119
+        },
+        "amazon_polarity_Is_this_product_review_positive.json": {
+            "em": 97.83508436803565,
+            "f1": 97.83508436803565
+        },
+        "dbpedia_14_given_list_what_category_does_the_paragraph_belong_to.json": {
+            "em": 99.15474642392718,
+            "f1": 99.15474642392718
+        }
+    },
+    "flan_t5_large-dbpedia_14_given_list_what_category_does_the_paragraph_belong_to": {
+        "adversarial_qa_dbert_based_on.json": {
+            "em": 75.53260167850226,
+            "f1": 85.10793469686622
+        },
+        "amazon_polarity_Is_this_product_review_positive.json": {
+            "em": 49.53836357847819,
+            "f1": 49.53836357847819
+        },
+        "dbpedia_14_given_list_what_category_does_the_paragraph_belong_to.json": {
+            "em": 99.73992197659298,
+            "f1": 99.73992197659298
+        }
+    }
+}
